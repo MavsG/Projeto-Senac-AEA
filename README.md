@@ -1,9 +1,9 @@
-ENGLISH
+#ENGLISH
 
 Link:
 https://mavsg.github.io/Projeto-Senac-AEA/index.html
 
-Course Completion Project
+#Course Completion Project
 
 This project consists of a functional website created to facilitate the adoption of animals in need, supporting a fictional NGO called Achados e Amados.
 
@@ -18,10 +18,10 @@ The complete project also includes:
 
 The goal of this project is to provide a platform that helps connect animals in need with potential adopters, making the adoption process more accessible and organized. 🐾
 
-PORTUGUESE
+#PORTUGUESE
 
 
-Projeto de Conclusão de Curso
+#Projeto de Conclusão de Curso
 
 
 https://mavsg.github.io/Projeto-Senac-AEA/index.html
